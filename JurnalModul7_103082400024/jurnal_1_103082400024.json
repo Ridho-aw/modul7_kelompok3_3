@@ -1,0 +1,25 @@
+﻿{
+  "firstName": "Ridho",
+  "lastName": "Ananta Wibowo",
+  "gender": "male",
+  "age": 20,
+  "address": {
+    "streetAddress": "Cibatu",
+    "city": "Garut",
+    "state": "West Java"
+  },
+  "courses": [
+    {
+      "code": "CCK2KAB4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CCK2HAB4",
+      "name": "Basis Data"
+    },
+    {
+      "code": "CCK2GAB3",
+      "name": "Interaksi Manusia Komputer"
+    }
+  ]
+}
