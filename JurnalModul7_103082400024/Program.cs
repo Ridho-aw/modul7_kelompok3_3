@@ -4,5 +4,8 @@
     {
         DataMahasiswa103082400024 mahasiswa = new DataMahasiswa103082400024();
         mahasiswa.ReadJSON();
+
+        TeamMembers103082400024 teamMembers = new TeamMembers103082400024();
+        teamMembers.ReadJSON();
     }
 }
