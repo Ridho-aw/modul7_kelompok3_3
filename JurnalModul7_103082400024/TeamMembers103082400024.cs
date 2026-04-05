@@ -31,7 +31,8 @@ public class TeamMembers103082400024
         Console.WriteLine("Team Members:");
         for (int i = 0; i < teamMembers.members.Count; i++)
         {
-            Console.WriteLine($"{teamMembers.members[i].nim} - {teamMembers.members[i].firstName} {teamMembers.members[i].lastName} ({teamMembers.members[i].age} - {teamMembers.members[i].gender})");
+            Console.WriteLine($"{teamMembers.members[i].nim} - {teamMembers.members[i].firstName} {teamMembers.members[i].lastName}" +
+                $" ({teamMembers.members[i].age} - {teamMembers.members[i].gender})");
         }
     }    
 }
