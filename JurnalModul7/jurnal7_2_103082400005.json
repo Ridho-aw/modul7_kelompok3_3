@@ -1,0 +1,25 @@
+{
+  "members": [
+    {
+      "firstName": "I Putu Gde Aditya Stiti",
+      "lastName": "Adnyana",
+      "gender": "male",
+      "age": 19,
+      "nim": "103082400005"
+    },
+    {
+      "firstName": "Farid",
+      "lastName": "Abdurrachman A",
+      "gender": "male",
+      "age": 20,
+      "nim": "103082400018"
+    },
+    {
+      "firstName": "Ridho",
+      "lastName": "Ananta Wibowo",
+      "gender": "male",
+      "age": 20,
+      "nim": "103082400024"
+    }
+  ]
+}

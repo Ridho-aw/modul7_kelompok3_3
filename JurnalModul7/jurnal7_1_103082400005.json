@@ -1,0 +1,16 @@
+{
+   "firstName": "I Putu Gde Aditya Stiti",
+   "lastName": "Adnyana",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Jln Mahendradatta xxx",
+       "city": "Denpasar",
+       "state": "Bali"
+   },
+   "courses": [
+       { "code": "CCK2KAB4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CCK2HAB4", "name": "Basis Data" },
+       { "code": "CCK2GAB3", "name": "Interaksi Manusia Komputer"}
+   ]
+}
