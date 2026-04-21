@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
-using static JurnalModul7.DataMahasiswa103082400005;
+using static JurnalModul7.DataMahasiswa103082400018;
 
 namespace JurnalModul7
 {
-    internal class GlossaryItem103082400005
+    internal class GlossaryItem103082400018
     {
         public class GlossaryRoot
         {
@@ -75,7 +75,7 @@ namespace JurnalModul7
        
         public static void ReadJSON()
         {
-            string stringJson = File.ReadAllText("../../../jurnal7_3_103082400005.json");
+            string stringJson = File.ReadAllText("../../../jurnal7_3_103082400018.json");
 
             try
             {

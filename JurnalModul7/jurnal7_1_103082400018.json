@@ -1,12 +1,12 @@
 {
-   "firstName": "I Putu Gde Aditya Stiti",
-   "lastName": "Adnyana",
+   "firstName": "Farid ",
+   "lastName": "Abdurrochman",
    "gender": "male",
-   "age": 19,
+   "age": 21,
    "address": {
-       "streetAddress": "Jln Mahendradatta xxx",
-       "city": "Denpasar",
-       "state": "Bali"
+       "streetAddress": "Kotgede",
+       "city": "Bantul",
+       "state": "Yogyakarta"
    },
    "courses": [
        { "code": "CCK2KAB4", "name": "Konstruksi Perangkat Lunak" },

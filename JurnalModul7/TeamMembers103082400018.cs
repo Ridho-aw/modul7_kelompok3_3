@@ -6,7 +6,7 @@ using System.Text.Json.Serialization;
 
 namespace JurnalModul7
 {
-    internal class TeamMembers103082400005
+    internal class TeamMembers103082400018
     {
 
         public class TeamMembers
@@ -33,7 +33,7 @@ namespace JurnalModul7
 
         public static void readJSON()
         {
-            string strtingJSON = File.ReadAllText("../../../jurnal7_2_103082400005.json");
+            string strtingJSON = File.ReadAllText("../../../jurnal7_2_103082400018.json");
 
             try
             {
